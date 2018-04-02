@@ -1,0 +1,48 @@
+
+background.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgroundWhite
+  rotate: false
+  xy: 2, 2
+  size: 40, 480
+  orig: 40, 480
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 44, 402
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rhombus
+  rotate: false
+  xy: 44, 320
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 44, 238
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 44, 156
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 44, 74
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
